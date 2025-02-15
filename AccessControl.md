@@ -1,4 +1,5 @@
-### Openzepplin 's Access control 
+### Openzepplin 's Access control
+
 In OpenZeppelin's `AccessControl` contract, the `renounceRole` function allows an account to relinquish a specific role it holds. This feature is designed to enable users to voluntarily forfeit their privileges, which can be particularly useful if an account is compromised or no longer requires certain permissions.
 
 [Documentation - OpenZeppelin Docs](https://docs.openzeppelin.com/contracts/4.x/api/access?utm_source=chatgpt.com)
